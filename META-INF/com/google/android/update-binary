@@ -61,9 +61,16 @@ umount() {
 }
 
 print "#######################################"
-print "#        Radioactive Kernel           #"
+print "#     Radioactive Kernel //Alpha      #"
 print "#                by                   #"
-print "#            acuicultor               #"
+print "#           @OrdenKrieger             #"
+print "#                                     #"
+print "#         ░░╚══╗░╔═╔════╝             #"
+print "#         ╚═╦═╗╠═╩═╩╗╔═╦═╗            #"
+print "#         ░░║▒╠╣▒▒▒▒╠╣▒║▒║            #"
+print "#         ╔═╩═╝╠═╦═╦╝╚═╩═╝            #"
+print "#         ░░╔══╝░╚═╚════╗             #"
+print "#     //representative image          #"
 print "#######################################"
 
 # Unpack the installer
